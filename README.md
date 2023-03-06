@@ -10,6 +10,7 @@
 ![WPF](https://img.shields.io/badge/WPF-%23F24E1E.svg?style=for-the-badge&logo=wpf&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Aiogram](https://img.shields.io/badge/Aiogram-%E9F542.svg?style=for-the-badge&logo=aiogram&logoColor=white) 
 # DataBases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
