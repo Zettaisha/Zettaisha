@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Flutter+Developer+%7C+4+years;Mobile+%7C+Backend+%7C+Frontend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Flutter+Developer;Mobile+%7C+Backend+%7C+Frontend" alt="Typing SVG" />
 
 ## 💻 Tech Stack
 
