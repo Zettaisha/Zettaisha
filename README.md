@@ -2,13 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Flutter+Developer+%7C+4+years;Mobile+%7C+Backend+%7C+Frontend" alt="Typing SVG" />
 
-### 👋 Привет, я Лев — Flutter-разработчик
-
-Создаю мобильные приложения с чистой архитектурой, нативной производительностью и хорошим UX.  
-Работаю с продуктами от идеи до публикации в App Store / Google Play.
-
----
-
 ## 💻 Tech Stack
 
 **Mobile**  
